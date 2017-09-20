@@ -7,11 +7,12 @@
     tools:context="com.crescert.tableviewdemo.MainActivity">
 
   <com.crescert.tableview.TableView
-      android:id="@+id/gridLayout"
+      android:id="@+id/gridList"
 
       android:layout_width="match_parent"
-      android:layout_height="match_parent">
+      android:layout_height="wrap_content">
 
   </com.crescert.tableview.TableView>
+
 
 </android.support.constraint.ConstraintLayout>

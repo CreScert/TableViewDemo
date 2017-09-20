@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TableViewDemo.iml" filepath="$PROJECT_DIR$/TableViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TableViewDemo.iml" filepath="$PROJECT_DIR$/TableViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tableview/tableview.iml" filepath="$PROJECT_DIR$/tableview/tableview.iml" />
       <module fileurl="file://$PROJECT_DIR$/tableview/tableview.iml" filepath="$PROJECT_DIR$/tableview/tableview.iml" />
     </modules>
   </component>
