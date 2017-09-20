@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             //读取资产文件
-            String s = parseJson("123.txt");
+            String s = parseJson("789.txt");
             //解析JSON
             Gson gson = new Gson();
             TableViewList tableViewModel = gson.fromJson(s, TableViewList.class);
